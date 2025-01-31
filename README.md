@@ -28,31 +28,8 @@ Road Network Flow is a project designed to simulate and analyze flow in a road n
      g++ -o roadNetworkFlow main.cpp  
      ./roadNetworkFlow  
      ```  
-   - **For Python Projects:**  
-     ```bash  
-     python main.py  
-     ```  
 
-## Usage  
-1. Add road network data by defining nodes and edges in the input file.  
-2. Run the simulation to calculate the flow distribution.  
-3. Analyze the output for bottlenecks and optimal routing suggestions.  
 
-## Example  
-```  
-Input:  
-Node A -> Node B: Capacity = 10  
-Node B -> Node C: Capacity = 15  
-
-Output:  
-Optimal flow from A to C: 10  
-Bottleneck: Node B  
-```  
-
-## Future Enhancements  
-- Add dynamic road network updates.  
-- Integrate with a UI for better visualization.  
-- Implement real-world datasets for practical applications.  
 
 ## Contributing  
 Contributions are welcome! Please fork this repository and submit a pull request. For major changes, open an issue to discuss your ideas first.  
