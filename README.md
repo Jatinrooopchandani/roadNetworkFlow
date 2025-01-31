@@ -9,9 +9,9 @@ Road Network Flow is a project designed to simulate and analyze flow in a road n
 - Analysis of bottlenecks and optimal paths in the network.  
 
 ## Technologies Used  
-- **Programming Language:** [Specify, e.g., C++, Python]  
+- **Programming Language:** C++  
 - **Algorithms:** Network flow optimization, shortest path algorithms, etc.  
-- **Libraries/Tools:** [Add relevant libraries, e.g., STL, Graphviz]  
+- **Libraries/Tools:** SDL 
 
 ## Installation  
 1. Clone this repository:  
